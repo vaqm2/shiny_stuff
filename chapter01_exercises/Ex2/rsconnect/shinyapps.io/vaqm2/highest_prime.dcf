@@ -1,0 +1,13 @@
+name: highest_prime
+title: highest_prime
+username:
+account: vaqm2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9321430
+bundleId: 7354313
+url: https://vaqm2.shinyapps.io/highest_prime/
+when: 1686932334.22043
+lastSyncTime: 1686932334.22044
+asMultiple: FALSE
+asStatic: FALSE
